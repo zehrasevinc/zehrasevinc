@@ -29,10 +29,10 @@
 ### 📫 Let's Connect
 
 <p>
-  <a href="mailto:senin.emailin@gmail.com">
+  <a href="mailto:zehrasevinc017@gmail.com">
     <img src="https://img.shields.io/badge/Email-eac5e8?style=flat-square&logo=gmail&logoColor=black" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/senin-linkedin-adresin">
+  <a href="https://tr.linkedin.com/in/zehra-sevinc">
     <img src="https://img.shields.io/badge/LinkedIn-c5e8e4?style=flat-square&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
 </p>
