@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me
 
-* 🔭 **Currently working on:** Energy Management System Design for Fuel Cell Hybrid Electric Vehicles
+* 🔭 **Currently working on:** Design of Electric Vehicle BLDC Hub Motor Driver and Investigation of Control Methods
 * 📚 **Current semester focus:** Signals and Systems, Circuit Theory 2, Electronics 2, and Engineering Mathematics
 * ☕ **Fueled by:** Lots of coffee
 * 🧶 **When I'm away from the keyboard:** I'm usually working on my knitting/crocheting projects or getting lost in Middle-earth (The Hobbit series).
